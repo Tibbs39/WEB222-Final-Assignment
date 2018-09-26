@@ -1,0 +1,107 @@
+.main-container {
+    max-width: 960px;
+    background: #232323;
+    margin: auto;
+    color: #CECECE;
+}
+
+nav {
+    float: left;
+    width: 18%;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    color: pink;
+    text-decoration: unset;
+}
+
+.main-body {
+    float: left;
+    width: 62%;
+}
+
+.main-body p {
+    padding: 0px 15px;
+}
+
+.main-body #name {
+    padding: 15px;
+    float: left;
+}
+
+.main-body #date {
+    float: right;
+    padding: 15px;
+    text-align: right;
+}
+
+.form {
+    padding: 15px;
+}
+
+.form label {
+    padding: 2px;
+    line-height: 25px;
+}
+
+.form span {
+    color: red;
+    padding: 10px;
+    font-size: 90%;
+}
+
+.side-panel {
+    float: right;
+    width: 19.3%;
+}
+
+.side-panel div {
+    margin: 12px;
+    float: right;
+    max-width: 72px;
+}
+
+.side-panel img {
+    width: 100%;
+}
+
+.hf {
+    color: lightblue;
+    background-color: black;
+    width: 100%;
+    float: left;
+    height: 40px;
+}
+
+.hf div {
+    margin: 0px 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    line-height: 25px;
+    border: 1px solid #232323; 
+    padding: 1px 7px;
+    background-color: #565656;
+    color: #ffffff;
+}
+
+select {
+    width: 185px;
+    height: 29px;
+    background-color: #565656;
+    color: #ffffff;
+}
+
+.logo {
+    height: 100%;
+    float: left;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
